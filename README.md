@@ -1,7 +1,5 @@
 # FixMyCode: AI-Agent Code Review & Mentorship Platform
 
-![FixMyCode Banner](https://img.shields.io/badge/AI%20Powered-Code%20Review-blue?style=for-the-badge&logo=artificial-intelligence)
-
 **FixMyCode** is an intelligent AI-Agent code review and mentorship platform built for the Launch IO Hackathon. It leverages io.net's powerful Intelligence API and AI Agents framework to provide comprehensive code analysis, bug detection, performance optimization, security vulnerability scanning, and interactive AI mentorship guidance.
 
 ## 🚀 Features
